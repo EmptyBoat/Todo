@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  margin-top: -10px;
+  height: 50px;
+  position: absolute;
+  right: 0;
+}
+
+.App-header {
+  background-color: rgb(53, 28, 28);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.lish-checkbox{
+  background-color: #fefefe;
+  border-color: rgb(238, 187, 94);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 19px;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
